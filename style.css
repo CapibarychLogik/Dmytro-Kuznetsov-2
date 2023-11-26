@@ -1,1 +1,55 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(14, 12, 12);
+}
 
+p {
+    font-size: 30px;
+    color: rgb(250, 250, 253);
+}
+
+header {
+    background-color: rgb(10, 2, 2);
+    padding: 10px;
+}
+
+header img {
+    height: 50px;
+    width: 750px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(90, 8, 8);
+    font-size: 60px;
+}
+
+main p {
+    padding: 50px;
+    background-color: rgb(10, 0, 0);
+    border-radius: 30px;
+    margin: 20px;
+}
+
+main img {
+    height: 200px;
+    width: 700px;
+}
+
+footer {
+    padding: 30px;
+}
+.icons{
+    width: 50px;
+    height: 50px;
+}
+.marker{
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+}
+
+.freddy{
+        width: 500px;
+    height: 250px;
+}
